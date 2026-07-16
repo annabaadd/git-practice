@@ -9,9 +9,10 @@ int main() {
     // Student Information
     // ==========================
 
-    string name = "Your Name";
-    string id = "24-XXXXX-X";
-    string section = "A";
+    string name ="ZIshiya Annaba Addrita ";
+    string id = "24-57443-2";
+    string section = "X";
+    string FavIDE = "Visual Studio"
 
     // ==========================
     // Personal Information
@@ -33,6 +34,8 @@ int main() {
     cout << "Section    : " << section << endl;
     cout << "Department : " << department << endl;
     cout << "University : " << university << endl;
+    cout<< "Fav IDE :" <<FavIDE<<endl;
+    
 
     cout << "\nWelcome to Git and GitHub!" << endl;
 
